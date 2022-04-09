@@ -9,4 +9,4 @@ for r in s:
     c=r
     i=0
   i+=1
-print(b)aaaaaa
+print(b)
